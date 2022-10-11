@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Rodrigo rimbau</h1>
 <h3 align="center">Apasionado desarrollador de argentina</h3>
-<img src="https://app.onlymega.com/showcase/obnr_cl94bpm5h0009pt3x9alcsip3"></img>
+<script src="https://cdn.onlymega.com/cl94bpm5h000apt3x4y9f8ftu/embed.js?bnTag=" async></script>
+
 - Actualmente termine el **studyrooms proyect**
 
 - 🌱Actualmente estoy aprendiendo **Full stack Developer**
