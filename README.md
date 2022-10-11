@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Rodrigo rimbau</h1>
 <h3 align="center">Apasionado desarrollador de argentina</h3>
-<script src="https://cdn.onlymega.com/cl94bpm5h000apt3x4y9f8ftu/embed.js?bnTag=" async></script>
+<iframe src="https://cdn.onlymega.com/cl94bpm5h000apt3x4y9f8ftu/embed.html?bnTag=%%CLICK_URL_ESC%%&cb=%%CACHEBUSTER%%" style="border:none;width:970px;height:250px;" frameborder="0" scrolling="no"></iframe>
 
 - Actualmente termine el **studyrooms proyect**
 
