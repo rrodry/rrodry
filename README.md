@@ -1,7 +1,8 @@
 <h1 align="center">Hola 👋, Soy Rodrigo rimbau</h1>
 <h3 align="center">Apasionado desarrollador de argentina</h3>
-
+<figure align="center"> 
 ![](https://github.com/rrodry/rrodry/blob/main/Hola%2C%20Soy%20Rodrigo%20Rimbau.gif)
+</figure>
 
 - Actualmente termine el **studyrooms proyect**
 
