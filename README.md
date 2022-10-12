@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, Soy Rodrigo rimbau</h1>
 <h3 align="center">Apasionado desarrollador de argentina</h3>
 
+![](https://github.com/rrodry/rrodry/blob/main/Hola%2C%20Soy%20Rodrigo%20Rimbau%20Full%20Stack%20Developer.gif)
+
 - Actualmente termine el **studyrooms proyect**
 
 - 🌱Actualmente estoy aprendiendo **Full stack Developer**
