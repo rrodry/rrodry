@@ -6,7 +6,7 @@
 
 - Actualmente termine el **studyrooms proyect**
 
-- 🌱Actualmente estoy aprendiendo **Full stack Developer**
+- 🌱Actualmente soy **Full stack Developer**
 
 - 📫 Como contactarme **rodrigorimbau94@gmail.com o https://www.linkedin.com/in/rodrigo-rimbau/**
 
